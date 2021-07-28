@@ -1,2 +1,4 @@
-# My-Smart-Wallet
-My Smart Wallet Application for Cryptocurrency mining and trading.
+# My-Smart--Contracts
+Keeping all my smart contracts from remix
+
+Maybe some of them :xD
